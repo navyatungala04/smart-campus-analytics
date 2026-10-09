@@ -1,0 +1,121 @@
+student_id,technical_skill_score,soft_skill_score,assessed_skills,assessment_date
+STU1001,72.6,71.1,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-08-10
+STU1002,88.6,70.8,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-08-11
+STU1003,61.6,62.9,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-08-12
+STU1004,76.5,70.5,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-08-13
+STU1005,86.4,92.5,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-08-14
+STU1006,94.7,91.6,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-08-15
+STU1007,86.0,86.2,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-08-16
+STU1008,47.6,49.7,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-08-17
+STU1009,76.6,79.9,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-08-18
+STU1010,56.4,66.9,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-08-19
+STU1011,86.8,93.8,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-08-20
+STU1012,97.0,78.0,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-08-21
+STU1013,63.8,61.6,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-08-22
+STU1014,82.7,75.9,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-08-23
+STU1015,94.8,83.7,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-08-24
+STU1016,92.8,,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-08-25
+STU1017,76.5,74.1,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-08-26
+STU1018,68.1,83.6,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-08-27
+STU1019,76.2,76.8,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-08-28
+STU1020,70.8,71.8,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-08-29
+STU1021,79.0,79.1,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-08-30
+STU1022,92.9,91.4,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-08-31
+STU1023,76.6,77.7,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-09-01
+STU1024,70.1,70.8,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-09-02
+STU1025,75.2,76.0,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-09-03
+STU1026,64.8,64.5,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-09-04
+STU1027,90.4,93.6,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-09-05
+STU1028,70.6,82.6,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-09-06
+STU1029,76.1,70.6,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-09-07
+STU1030,95.5,87.8,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-09-08
+STU1031,79.0,71.1,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-09-09
+STU1032,88.5,90.1,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-09-10
+STU1033,95.9,87.6,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-09-11
+STU1034,48.3,50.8,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-09-12
+STU1035,93.9,72.6,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-09-13
+STU1036,54.4,57.0,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-09-14
+STU1037,73.7,68.1,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-09-15
+STU1038,89.9,90.4,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-09-16
+STU1039,56.1,,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-09-17
+STU1040,74.9,68.0,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-09-18
+STU1041,85.4,88.2,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-09-19
+STU1042,78.6,68.5,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-09-20
+STU1043,91.8,86.3,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-09-21
+STU1044,49.8,35.7,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-09-22
+STU1045,70.7,81.7,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-09-23
+STU1046,62.0,54.2,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-08-10
+STU1047,82.0,73.1,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-08-11
+STU1048,78.4,81.4,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-08-12
+STU1049,72.3,69.7,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-08-13
+STU1050,86.9,90.4,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-08-14
+STU1051,92.3,68.3,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-08-15
+STU1052,59.3,64.1,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-08-16
+STU1053,46.5,37.5,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-08-17
+STU1054,45.8,46.8,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-08-18
+STU1055,73.7,73.8,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-08-19
+STU1056,47.6,43.9,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-08-20
+STU1057,91.2,87.1,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-08-21
+STU1058,95.2,88.3,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-08-22
+STU1059,89.0,87.0,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-08-23
+STU1060,70.0,82.2,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-08-24
+STU1061,80.7,69.6,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-08-25
+STU1062,77.6,78.5,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-08-26
+STU1063,63.8,57.3,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-08-27
+STU1064,77.2,70.5,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-08-28
+STU1065,82.7,80.0,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-08-29
+STU1066,81.1,78.2,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-08-30
+STU1067,85.1,91.7,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-08-31
+STU1068,61.6,53.0,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-09-01
+STU1069,86.0,84.9,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-09-02
+STU1070,90.7,77.3,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-09-03
+STU1071,65.6,55.7,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-09-04
+STU1072,92.2,84.6,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-09-05
+STU1073,94.3,,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-09-06
+STU1074,54.4,55.8,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-09-07
+STU1075,64.0,57.9,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-09-08
+STU1076,67.0,66.7,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-09-09
+STU1077,55.6,54.1,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-09-10
+STU1078,85.8,86.4,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-09-11
+STU1079,73.7,83.6,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-09-12
+STU1080,94.1,83.0,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-09-13
+STU1081,48.0,36.1,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-09-14
+STU1082,79.2,76.1,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-09-15
+STU1083,74.6,71.5,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-09-16
+STU1084,94.1,94.4,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-09-17
+STU1085,77.0,76.0,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-09-18
+STU1086,80.8,74.5,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-09-19
+STU1087,54.3,52.4,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-09-20
+STU1088,73.8,70.6,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-09-21
+STU1089,45.6,38.0,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-09-22
+STU1090,78.8,76.5,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-09-23
+STU1091,93.0,93.6,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-08-10
+STU1092,64.1,56.2,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-08-11
+STU1093,61.5,60.7,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-08-12
+STU1094,68.5,71.4,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-08-13
+STU1095,52.8,63.2,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-08-14
+STU1096,78.3,75.9,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-08-15
+STU1097,80.9,71.0,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-08-16
+STU1098,69.7,76.3,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-08-17
+STU1099,89.2,86.8,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-08-18
+STU1100,87.5,,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-08-19
+STU1101,95.4,86.4,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-08-20
+STU1102,76.4,81.8,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-08-21
+STU1103,80.4,79.7,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-08-22
+STU1104,68.7,80.9,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-08-23
+STU1105,38.6,38.3,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-08-24
+STU1106,76.9,71.0,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-08-25
+STU1107,78.8,71.2,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-08-26
+STU1108,61.9,53.2,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-08-27
+STU1109,78.9,81.8,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-08-28
+STU1110,89.8,85.1,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-08-29
+STU1111,77.4,77.1,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-08-30
+STU1112,92.1,90.7,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-08-31
+STU1113,42.2,39.6,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-09-01
+STU1114,53.8,58.7,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-09-02
+STU1115,81.4,69.3,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-09-03
+STU1116,46.0,45.3,"Data Structures, Algorithms, Python, System Design, Problem Solving",2026-09-04
+STU1117,58.2,65.1,"Java, Web Development, Database Management, Cloud Basics, Agile",2026-09-05
+STU1118,87.9,84.1,"Digital Circuits, Microcontrollers, Embedded C, MATLAB, IoT",2026-09-06
+STU1119,44.5,41.3,"Python, Machine Learning, SQL, Statistics, Data Visualization",2026-09-07
+STU1120,76.0,80.6,"CAD Modeling, Thermodynamics, FEA, MATLAB, Project Management",2026-09-08

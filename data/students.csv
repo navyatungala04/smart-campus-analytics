@@ -1,0 +1,121 @@
+student_id,student_name,department,academic_year,semester,email
+STU1001,Karthik Sharma,Computer Science and Engineering,4th Year,7,karthik.sharma001@smartcampus.edu
+STU1002,Surya Kumar,Information Technology,4th Year,7,surya.kumar002@smartcampus.edu
+STU1003,Rishi Nair,Electronics and Communication Engineering,3rd Year,5,rishi.nair003@smartcampus.edu
+STU1004,Janani Sengupta,Data Science,2nd Year,3,janani.sengupta004@smartcampus.edu
+STU1005,Harini Chopra,Mechanical Engineering,2nd Year,3,harini.chopra005@smartcampus.edu
+STU1006,Manish Verma,Computer Science and Engineering,3rd Year,5,manish.verma006@smartcampus.edu
+STU1007,Ananya Patel,Information Technology,4th Year,7,ananya.patel007@smartcampus.edu
+STU1008,Rhea Kumar,Electronics and Communication Engineering,4th Year,7,rhea.kumar008@smartcampus.edu
+STU1009,Ananya Bhat,Data Science,2nd Year,3,ananya.bhat009@smartcampus.edu
+STU1010,Priya Das,Mechanical Engineering,3rd Year,5,priya.das010@smartcampus.edu
+STU1011,Keerthi Kumar,Computer Science and Engineering,3rd Year,5,keerthi.kumar011@smartcampus.edu
+STU1012,Raghav Chopra,Information Technology,2nd Year,3,raghav.chopra012@smartcampus.edu
+STU1013,Surya Narayanan,Electronics and Communication Engineering,2nd Year,3,surya.narayanan013@smartcampus.edu
+STU1014,Aarav Swaminathan,Data Science,3rd Year,5,aarav.swaminathan014@smartcampus.edu
+STU1015,Naveen Das,Mechanical Engineering,4th Year,7,naveen.das015@smartcampus.edu
+STU1016,Manish Pillai,Computer Science and Engineering,3rd Year,5,manish.pillai016@smartcampus.edu
+STU1017,Surya Nair,Information Technology,3rd Year,5,surya.nair017@smartcampus.edu
+STU1018,Rhea Swaminathan,Electronics and Communication Engineering,3rd Year,5,rhea.swaminathan018@smartcampus.edu
+STU1019,Amrita Reddy,Data Science,3rd Year,5,amrita.reddy019@smartcampus.edu
+STU1020,Harini Deshmukh,Mechanical Engineering,4th Year,7,harini.deshmukh020@smartcampus.edu
+STU1021,Ishaan Gupta,Computer Science and Engineering,4th Year,7,ishaan.gupta021@smartcampus.edu
+STU1022,Anirudh Mehta,Information Technology,2nd Year,3,anirudh.mehta022@smartcampus.edu
+STU1023,Siddharth Narayanan,Electronics and Communication Engineering,3rd Year,5,siddharth.narayanan023@smartcampus.edu
+STU1024,Bhavya Rajan,Data Science,3rd Year,5,bhavya.rajan024@smartcampus.edu
+STU1025,Sangeetha Bhat,Mechanical Engineering,2nd Year,3,sangeetha.bhat025@smartcampus.edu
+STU1026,Kavya Chatterjee,Computer Science and Engineering,2nd Year,3,kavya.chatterjee026@smartcampus.edu
+STU1027,Dinesh Patel,Information Technology,3rd Year,5,dinesh.patel027@smartcampus.edu
+STU1028,Tarun Shetty,Electronics and Communication Engineering,3rd Year,5,tarun.shetty028@smartcampus.edu
+STU1029,Ashwin Chopra,Data Science,2nd Year,3,ashwin.chopra029@smartcampus.edu
+STU1030,Pranav Das,Mechanical Engineering,2nd Year,3,pranav.das030@smartcampus.edu
+STU1031,Dev Verma,Computer Science and Engineering,4th Year,7,dev.verma031@smartcampus.edu
+STU1032,Rohan Swaminathan,Information Technology,2nd Year,3,rohan.swaminathan032@smartcampus.edu
+STU1033,Tarun Patel,Electronics and Communication Engineering,2nd Year,3,tarun.patel033@smartcampus.edu
+STU1034,Rohan Gowda,Data Science,3rd Year,5,rohan.gowda034@smartcampus.edu
+STU1035,Ishaan Deshmukh,Mechanical Engineering,4th Year,7,ishaan.deshmukh035@smartcampus.edu
+STU1036,Surya Bose,Computer Science and Engineering,2nd Year,3,surya.bose036@smartcampus.edu
+STU1037,Ashwin Iyer,Information Technology,3rd Year,5,ashwin.iyer037@smartcampus.edu
+STU1038,Chaithra Gupta,Electronics and Communication Engineering,4th Year,7,chaithra.gupta038@smartcampus.edu
+STU1039,Rahul Sengupta,Data Science,2nd Year,3,rahul.sengupta039@smartcampus.edu
+STU1040,Sneha Das,Mechanical Engineering,3rd Year,5,sneha.das040@smartcampus.edu
+STU1041,Divya Mehta,Computer Science and Engineering,3rd Year,5,divya.mehta041@smartcampus.edu
+STU1042,Neha Bhat,Information Technology,3rd Year,5,neha.bhat042@smartcampus.edu
+STU1043,Sanjay Iyer,Electronics and Communication Engineering,3rd Year,5,sanjay.iyer043@smartcampus.edu
+STU1044,Tejas Deshmukh,Data Science,3rd Year,5,tejas.deshmukh044@smartcampus.edu
+STU1045,Sneha Chatterjee,Mechanical Engineering,2nd Year,3,sneha.chatterjee045@smartcampus.edu
+STU1046,Rishi Sengupta,Computer Science and Engineering,4th Year,7,rishi.sengupta046@smartcampus.edu
+STU1047,Yash Shetty,Information Technology,3rd Year,5,yash.shetty047@smartcampus.edu
+STU1048,Deepa Kumar,Electronics and Communication Engineering,2nd Year,3,deepa.kumar048@smartcampus.edu
+STU1049,Arjun Narayanan,Data Science,2nd Year,3,arjun.narayanan049@smartcampus.edu
+STU1050,Vikram Deshmukh,Mechanical Engineering,3rd Year,5,vikram.deshmukh050@smartcampus.edu
+STU1051,Sneha Patel,Computer Science and Engineering,3rd Year,5,sneha.patel051@smartcampus.edu
+STU1052,Rhea Chatterjee,Information Technology,2nd Year,3,rhea.chatterjee052@smartcampus.edu
+STU1053,Vikram Rao,Electronics and Communication Engineering,3rd Year,5,vikram.rao053@smartcampus.edu
+STU1054,Zoya Deshmukh,Data Science,2nd Year,3,zoya.deshmukh054@smartcampus.edu
+STU1055,Sangeetha Nair,Mechanical Engineering,3rd Year,5,sangeetha.nair055@smartcampus.edu
+STU1056,Siddharth Nair,Computer Science and Engineering,2nd Year,3,siddharth.nair056@smartcampus.edu
+STU1057,Sanjay Rajan,Information Technology,3rd Year,5,sanjay.rajan057@smartcampus.edu
+STU1058,Siddharth Rajan,Electronics and Communication Engineering,3rd Year,5,siddharth.rajan058@smartcampus.edu
+STU1059,Manish Balakrishnan,Data Science,4th Year,7,manish.balakrishnan059@smartcampus.edu
+STU1060,Indira Gupta,Mechanical Engineering,2nd Year,3,indira.gupta060@smartcampus.edu
+STU1061,Rishi Nair,Computer Science and Engineering,3rd Year,5,rishi.nair061@smartcampus.edu
+STU1062,Zoya Patel,Information Technology,2nd Year,3,zoya.patel062@smartcampus.edu
+STU1063,Chetan Gowda,Electronics and Communication Engineering,4th Year,7,chetan.gowda063@smartcampus.edu
+STU1064,Karthik Nair,Data Science,4th Year,7,karthik.nair064@smartcampus.edu
+STU1065,Naveen Narayanan,Mechanical Engineering,2nd Year,3,naveen.narayanan065@smartcampus.edu
+STU1066,Manish Mehta,Computer Science and Engineering,3rd Year,5,manish.mehta066@smartcampus.edu
+STU1067,Dev Deshmukh,Information Technology,4th Year,7,dev.deshmukh067@smartcampus.edu
+STU1068,Dinesh Mehta,Electronics and Communication Engineering,3rd Year,5,dinesh.mehta068@smartcampus.edu
+STU1069,Tejas Kulkarni,Data Science,3rd Year,5,tejas.kulkarni069@smartcampus.edu
+STU1070,Shreya Bhat,Mechanical Engineering,2nd Year,3,shreya.bhat070@smartcampus.edu
+STU1071,Aditi Sengupta,Computer Science and Engineering,2nd Year,3,aditi.sengupta071@smartcampus.edu
+STU1072,Karthik Sengupta,Information Technology,4th Year,7,karthik.sengupta072@smartcampus.edu
+STU1073,Sneha Swaminathan,Electronics and Communication Engineering,4th Year,7,sneha.swaminathan073@smartcampus.edu
+STU1074,Amrita Reddy,Data Science,3rd Year,5,amrita.reddy074@smartcampus.edu
+STU1075,Tarun Joshi,Mechanical Engineering,3rd Year,5,tarun.joshi075@smartcampus.edu
+STU1076,Naveen Bose,Computer Science and Engineering,3rd Year,5,naveen.bose076@smartcampus.edu
+STU1077,Aarav Rajan,Information Technology,3rd Year,5,aarav.rajan077@smartcampus.edu
+STU1078,Siddharth Kulkarni,Electronics and Communication Engineering,4th Year,7,siddharth.kulkarni078@smartcampus.edu
+STU1079,Nikhil Kulkarni,Data Science,4th Year,7,nikhil.kulkarni079@smartcampus.edu
+STU1080,Janani Gowda,Mechanical Engineering,4th Year,7,janani.gowda080@smartcampus.edu
+STU1081,Varun Shetty,Computer Science and Engineering,3rd Year,5,varun.shetty081@smartcampus.edu
+STU1082,Priya Nair,Information Technology,2nd Year,3,priya.nair082@smartcampus.edu
+STU1083,Chaithra Swaminathan,Electronics and Communication Engineering,2nd Year,3,chaithra.swaminathan083@smartcampus.edu
+STU1084,Naveen Bhat,Data Science,4th Year,7,naveen.bhat084@smartcampus.edu
+STU1085,Aarav Mehta,Mechanical Engineering,3rd Year,5,aarav.mehta085@smartcampus.edu
+STU1086,Yash Ghosh,Computer Science and Engineering,2nd Year,3,yash.ghosh086@smartcampus.edu
+STU1087,Akhil Reddy,Information Technology,2nd Year,3,akhil.reddy087@smartcampus.edu
+STU1088,Ashwin Balakrishnan,Electronics and Communication Engineering,3rd Year,5,ashwin.balakrishnan088@smartcampus.edu
+STU1089,Vidya Kumar,Data Science,2nd Year,3,vidya.kumar089@smartcampus.edu
+STU1090,Deepa Kumar,Mechanical Engineering,2nd Year,3,deepa.kumar090@smartcampus.edu
+STU1091,Gautam Patel,Computer Science and Engineering,3rd Year,5,gautam.patel091@smartcampus.edu
+STU1092,Vignesh Shetty,Information Technology,3rd Year,5,vignesh.shetty092@smartcampus.edu
+STU1093,Dev Swaminathan,Electronics and Communication Engineering,3rd Year,5,dev.swaminathan093@smartcampus.edu
+STU1094,Kiran Nair,Data Science,2nd Year,3,kiran.nair094@smartcampus.edu
+STU1095,Uma Bhat,Mechanical Engineering,3rd Year,5,uma.bhat095@smartcampus.edu
+STU1096,Neha Singh,Computer Science and Engineering,2nd Year,3,neha.singh096@smartcampus.edu
+STU1097,Manish Rao,Information Technology,3rd Year,5,manish.rao097@smartcampus.edu
+STU1098,Priya Das,Electronics and Communication Engineering,3rd Year,5,priya.das098@smartcampus.edu
+STU1099,Vidya Deshmukh,Data Science,3rd Year,5,vidya.deshmukh099@smartcampus.edu
+STU1100,Chaithra Bose,Mechanical Engineering,4th Year,7,chaithra.bose100@smartcampus.edu
+STU1101,Raghav Reddy,Computer Science and Engineering,3rd Year,5,raghav.reddy101@smartcampus.edu
+STU1102,Sanjay Kumar,Information Technology,3rd Year,5,sanjay.kumar102@smartcampus.edu
+STU1103,Dev Pillai,Electronics and Communication Engineering,2nd Year,3,dev.pillai103@smartcampus.edu
+STU1104,Akhil Chopra,Data Science,3rd Year,5,akhil.chopra104@smartcampus.edu
+STU1105,Rohan Chopra,Mechanical Engineering,2nd Year,3,rohan.chopra105@smartcampus.edu
+STU1106,Rishi Sharma,Computer Science and Engineering,2nd Year,3,rishi.sharma106@smartcampus.edu
+STU1107,Divya Das,Information Technology,4th Year,7,divya.das107@smartcampus.edu
+STU1108,Deepa Kumar,Electronics and Communication Engineering,3rd Year,5,deepa.kumar108@smartcampus.edu
+STU1109,Dev Balakrishnan,Data Science,4th Year,7,dev.balakrishnan109@smartcampus.edu
+STU1110,Arjun Gowda,Mechanical Engineering,3rd Year,5,arjun.gowda110@smartcampus.edu
+STU1111,Aditya Patel,Computer Science and Engineering,4th Year,7,aditya.patel111@smartcampus.edu
+STU1112,Sahil Singh,Information Technology,3rd Year,5,sahil.singh112@smartcampus.edu
+STU1113,Vignesh Rao,Electronics and Communication Engineering,3rd Year,5,vignesh.rao113@smartcampus.edu
+STU1114,Kiran Rajan,Data Science,3rd Year,5,kiran.rajan114@smartcampus.edu
+STU1115,Uma Kumar,Mechanical Engineering,2nd Year,3,uma.kumar115@smartcampus.edu
+STU1116,Uma Narayanan,Computer Science and Engineering,3rd Year,5,uma.narayanan116@smartcampus.edu
+STU1117,Jagan Rao,Information Technology,2nd Year,3,jagan.rao117@smartcampus.edu
+STU1118,Ishaan Reddy,Electronics and Communication Engineering,2nd Year,3,ishaan.reddy118@smartcampus.edu
+STU1119,Nandita Gupta,Data Science,3rd Year,5,nandita.gupta119@smartcampus.edu
+STU1120,Manish Joshi,Mechanical Engineering,2nd Year,3,manish.joshi120@smartcampus.edu

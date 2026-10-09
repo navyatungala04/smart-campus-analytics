@@ -1,0 +1,481 @@
+student_id,subject_name,classes_attended,total_classes,attendance_percentage
+STU1001,Artificial Intelligence,44,54,81.48
+STU1001,Cloud Computing,44,48,91.67
+STU1001,Information Security,40,48,83.33
+STU1001,Compiler Design,41,48,85.42
+STU1002,Cloud Infrastructure,40,54,74.07
+STU1002,Cyber Security,38,52,73.08
+STU1002,Big Data Analytics,35,48,72.92
+STU1002,Mobile Computing,39,50,78.0
+STU1003,Microprocessors & Microcontrollers,35,50,70.0
+STU1003,Digital Signal Processing,33,50,66.0
+STU1003,Analog Communication,42,54,77.78
+STU1003,Electromagnetic Fields,35,50,70.0
+STU1004,Python for Data Science,45,54,83.33
+STU1004,Data Structures,37,50,74.0
+STU1004,Linear Algebra & Statistics,43,52,82.69
+STU1004,Database Systems,45,54,83.33
+STU1005,Thermodynamics,49,50,98.0
+STU1005,Fluid Mechanics,44,48,91.67
+STU1005,Engineering Mechanics,49,54,90.74
+STU1005,Materials Science,45,48,93.75
+STU1006,Database Management Systems,44,48,91.67
+STU1006,Operating Systems,43,48,89.58
+STU1006,Design & Analysis of Algorithms,47,48,97.92
+STU1006,Computer Networks,47,50,94.0
+STU1007,Cloud Infrastructure,46,50,92.0
+STU1007,Cyber Security,47,54,87.04
+STU1007,Big Data Analytics,46,54,85.19
+STU1007,Mobile Computing,49,54,90.74
+STU1008,VLSI Design,26,50,52.0
+STU1008,Wireless Communication,30,54,55.56
+STU1008,Embedded Systems,27,48,56.25
+STU1008,Optical Networks,29,50,58.0
+STU1009,Python for Data Science,46,54,85.19
+STU1009,Data Structures,37,48,77.08
+STU1009,Linear Algebra & Statistics,44,54,81.48
+STU1009,Database Systems,45,52,86.54
+STU1010,Heat Transfer,39,54,72.22
+STU1010,Kinematics of Machinery,37,52,71.15
+STU1010,Design of Machine Elements,38,54,70.37
+STU1010,Manufacturing Technology,42,54,77.78
+STU1011,Database Management Systems,48,50,96.0
+STU1011,Operating Systems,45,50,90.0
+STU1011,Design & Analysis of Algorithms,47,52,90.38
+STU1011,Computer Networks,43,50,86.0
+STU1012,Data Structures,35,48,72.92
+STU1012,Computer Organization,39,48,81.25
+STU1012,Java Programming,44,52,84.62
+STU1012,Discrete Mathematics,37,48,77.08
+STU1013,Electronic Devices & Circuits,35,48,72.92
+STU1013,Digital Electronics,42,54,77.78
+STU1013,Signals and Systems,37,50,74.0
+STU1013,Network Theory,38,48,79.17
+STU1014,Machine Learning,41,48,85.42
+STU1014,Data Mining & Warehousing,44,50,88.0
+STU1014,Operating Systems,41,48,85.42
+STU1014,Applied Statistics,41,48,85.42
+STU1015,CAD/CAM & Automation,43,50,86.0
+STU1015,Robotics & Automation,52,54,96.3
+STU1015,Finite Element Analysis,41,48,85.42
+STU1015,Power Plant Engineering,44,50,88.0
+STU1016,Database Management Systems,43,48,89.58
+STU1016,Operating Systems,45,48,93.75
+STU1016,Design & Analysis of Algorithms,48,54,88.89
+STU1016,Computer Networks,47,52,90.38
+STU1017,Database Systems,46,52,88.46
+STU1017,Web Technology,43,50,86.0
+STU1017,Operating Systems,42,52,80.77
+STU1017,Software Engineering,43,50,86.0
+STU1018,Microprocessors & Microcontrollers,46,52,88.46
+STU1018,Digital Signal Processing,51,54,94.44
+STU1018,Analog Communication,43,50,86.0
+STU1018,Electromagnetic Fields,43,52,82.69
+STU1019,Machine Learning,44,54,81.48
+STU1019,Data Mining & Warehousing,44,52,84.62
+STU1019,Operating Systems,41,48,85.42
+STU1019,Applied Statistics,40,48,83.33
+STU1020,CAD/CAM & Automation,39,54,72.22
+STU1020,Robotics & Automation,40,48,83.33
+STU1020,Finite Element Analysis,38,48,79.17
+STU1020,Power Plant Engineering,43,50,86.0
+STU1021,Artificial Intelligence,43,52,82.69
+STU1021,Cloud Computing,43,50,86.0
+STU1021,Information Security,43,52,82.69
+STU1021,Compiler Design,38,48,79.17
+STU1022,Data Structures,48,50,96.0
+STU1022,Computer Organization,49,52,94.23
+STU1022,Java Programming,51,52,98.08
+STU1022,Discrete Mathematics,44,50,88.0
+STU1023,Microprocessors & Microcontrollers,41,54,75.93
+STU1023,Digital Signal Processing,42,52,80.77
+STU1023,Analog Communication,39,48,81.25
+STU1023,Electromagnetic Fields,39,52,75.0
+STU1024,Machine Learning,37,48,77.08
+STU1024,Data Mining & Warehousing,39,50,78.0
+STU1024,Operating Systems,37,52,71.15
+STU1024,Applied Statistics,36,48,75.0
+STU1025,Thermodynamics,40,48,83.33
+STU1025,Fluid Mechanics,44,50,88.0
+STU1025,Engineering Mechanics,45,52,86.54
+STU1025,Materials Science,40,52,76.92
+STU1026,Data Structures,34,50,68.0
+STU1026,Digital Logic & Design,40,52,76.92
+STU1026,Object Oriented Programming,34,50,68.0
+STU1026,Discrete Mathematics,34,52,65.38
+STU1027,Database Systems,52,54,96.3
+STU1027,Web Technology,48,52,92.31
+STU1027,Operating Systems,45,48,93.75
+STU1027,Software Engineering,46,48,95.83
+STU1028,Microprocessors & Microcontrollers,45,54,83.33
+STU1028,Digital Signal Processing,42,52,80.77
+STU1028,Analog Communication,38,48,79.17
+STU1028,Electromagnetic Fields,37,48,77.08
+STU1029,Python for Data Science,45,52,86.54
+STU1029,Data Structures,37,50,74.0
+STU1029,Linear Algebra & Statistics,40,52,76.92
+STU1029,Database Systems,44,50,88.0
+STU1030,Thermodynamics,49,54,90.74
+STU1030,Fluid Mechanics,50,54,92.59
+STU1030,Engineering Mechanics,43,48,89.58
+STU1030,Materials Science,40,48,83.33
+STU1031,Artificial Intelligence,43,48,89.58
+STU1031,Cloud Computing,42,50,84.0
+STU1031,Information Security,42,48,87.5
+STU1031,Compiler Design,48,52,92.31
+STU1032,Data Structures,48,50,96.0
+STU1032,Computer Organization,53,54,98.15
+STU1032,Java Programming,46,50,92.0
+STU1032,Discrete Mathematics,47,48,97.92
+STU1033,Electronic Devices & Circuits,49,52,94.23
+STU1033,Digital Electronics,51,52,98.08
+STU1033,Signals and Systems,46,48,95.83
+STU1033,Network Theory,50,52,96.15
+STU1034,Machine Learning,25,50,50.0
+STU1034,Data Mining & Warehousing,27,50,54.0
+STU1034,Operating Systems,26,48,54.17
+STU1034,Applied Statistics,24,52,46.15
+STU1035,CAD/CAM & Automation,37,54,68.52
+STU1035,Robotics & Automation,39,50,78.0
+STU1035,Finite Element Analysis,36,50,72.0
+STU1035,Power Plant Engineering,38,50,76.0
+STU1036,Data Structures,36,50,72.0
+STU1036,Digital Logic & Design,40,54,74.07
+STU1036,Object Oriented Programming,37,48,77.08
+STU1036,Discrete Mathematics,38,50,76.0
+STU1037,Database Systems,39,52,75.0
+STU1037,Web Technology,40,54,74.07
+STU1037,Operating Systems,39,50,78.0
+STU1037,Software Engineering,38,52,73.08
+STU1038,VLSI Design,44,50,88.0
+STU1038,Wireless Communication,41,48,85.42
+STU1038,Embedded Systems,51,54,94.44
+STU1038,Optical Networks,45,48,93.75
+STU1039,Python for Data Science,36,54,66.67
+STU1039,Data Structures,34,50,68.0
+STU1039,Linear Algebra & Statistics,34,50,68.0
+STU1039,Database Systems,37,54,68.52
+STU1040,Heat Transfer,42,52,80.77
+STU1040,Kinematics of Machinery,44,52,84.62
+STU1040,Design of Machine Elements,45,50,90.0
+STU1040,Manufacturing Technology,46,50,92.0
+STU1041,Database Management Systems,43,48,89.58
+STU1041,Operating Systems,48,50,96.0
+STU1041,Design & Analysis of Algorithms,48,54,88.89
+STU1041,Computer Networks,46,52,88.46
+STU1042,Database Systems,42,52,80.77
+STU1042,Web Technology,39,48,81.25
+STU1042,Operating Systems,43,52,82.69
+STU1042,Software Engineering,43,52,82.69
+STU1043,Microprocessors & Microcontrollers,52,54,96.3
+STU1043,Digital Signal Processing,44,52,84.62
+STU1043,Analog Communication,44,48,91.67
+STU1043,Electromagnetic Fields,44,48,91.67
+STU1044,Machine Learning,31,52,59.62
+STU1044,Data Mining & Warehousing,31,50,62.0
+STU1044,Operating Systems,34,52,65.38
+STU1044,Applied Statistics,27,48,56.25
+STU1045,Thermodynamics,39,48,81.25
+STU1045,Fluid Mechanics,42,54,77.78
+STU1045,Engineering Mechanics,41,52,78.85
+STU1045,Materials Science,40,52,76.92
+STU1046,Artificial Intelligence,35,54,64.81
+STU1046,Cloud Computing,35,48,72.92
+STU1046,Information Security,38,54,70.37
+STU1046,Compiler Design,38,50,76.0
+STU1047,Database Systems,43,52,82.69
+STU1047,Web Technology,41,48,85.42
+STU1047,Operating Systems,50,54,92.59
+STU1047,Software Engineering,40,48,83.33
+STU1048,Electronic Devices & Circuits,39,50,78.0
+STU1048,Digital Electronics,43,52,82.69
+STU1048,Signals and Systems,45,54,83.33
+STU1048,Network Theory,36,48,75.0
+STU1049,Python for Data Science,44,52,84.62
+STU1049,Data Structures,42,52,80.77
+STU1049,Linear Algebra & Statistics,38,48,79.17
+STU1049,Database Systems,45,52,86.54
+STU1050,Heat Transfer,49,52,94.23
+STU1050,Kinematics of Machinery,49,54,90.74
+STU1050,Design of Machine Elements,46,52,88.46
+STU1050,Manufacturing Technology,47,54,87.04
+STU1051,Database Management Systems,40,52,76.92
+STU1051,Operating Systems,39,50,78.0
+STU1051,Design & Analysis of Algorithms,38,50,76.0
+STU1051,Computer Networks,44,54,81.48
+STU1052,Data Structures,39,54,72.22
+STU1052,Computer Organization,36,50,72.0
+STU1052,Java Programming,38,52,73.08
+STU1052,Discrete Mathematics,36,54,66.67
+STU1053,Microprocessors & Microcontrollers,29,48,60.42
+STU1053,Digital Signal Processing,29,52,55.77
+STU1053,Analog Communication,31,52,59.62
+STU1053,Electromagnetic Fields,30,50,60.0
+STU1054,Python for Data Science,30,54,55.56
+STU1054,Data Structures,31,52,59.62
+STU1054,Linear Algebra & Statistics,30,54,55.56
+STU1054,Database Systems,31,54,57.41
+STU1055,Heat Transfer,38,54,70.37
+STU1055,Kinematics of Machinery,39,50,78.0
+STU1055,Design of Machine Elements,39,54,72.22
+STU1055,Manufacturing Technology,37,50,74.0
+STU1056,Data Structures,31,48,64.58
+STU1056,Digital Logic & Design,34,52,65.38
+STU1056,Object Oriented Programming,32,52,61.54
+STU1056,Discrete Mathematics,30,48,62.5
+STU1057,Database Systems,48,50,96.0
+STU1057,Web Technology,51,52,98.08
+STU1057,Operating Systems,48,50,96.0
+STU1057,Software Engineering,46,50,92.0
+STU1058,Microprocessors & Microcontrollers,42,50,84.0
+STU1058,Digital Signal Processing,42,48,87.5
+STU1058,Analog Communication,42,48,87.5
+STU1058,Electromagnetic Fields,45,50,90.0
+STU1059,Deep Learning,47,54,87.04
+STU1059,Natural Language Processing,47,48,97.92
+STU1059,Big Data Engineering,47,54,87.04
+STU1059,Data Visualization & BI,51,54,94.44
+STU1060,Thermodynamics,38,50,76.0
+STU1060,Fluid Mechanics,46,54,85.19
+STU1060,Engineering Mechanics,40,54,74.07
+STU1060,Materials Science,46,54,85.19
+STU1061,Database Management Systems,37,50,74.0
+STU1061,Operating Systems,38,50,76.0
+STU1061,Design & Analysis of Algorithms,33,48,68.75
+STU1061,Computer Networks,38,48,79.17
+STU1062,Data Structures,46,54,85.19
+STU1062,Computer Organization,42,50,84.0
+STU1062,Java Programming,45,50,90.0
+STU1062,Discrete Mathematics,46,54,85.19
+STU1063,VLSI Design,32,48,66.67
+STU1063,Wireless Communication,33,50,66.0
+STU1063,Embedded Systems,33,48,68.75
+STU1063,Optical Networks,36,54,66.67
+STU1064,Deep Learning,41,50,82.0
+STU1064,Natural Language Processing,40,54,74.07
+STU1064,Big Data Engineering,41,52,78.85
+STU1064,Data Visualization & BI,43,54,79.63
+STU1065,Thermodynamics,43,54,79.63
+STU1065,Fluid Mechanics,45,54,83.33
+STU1065,Engineering Mechanics,41,50,82.0
+STU1065,Materials Science,42,54,77.78
+STU1066,Database Management Systems,47,54,87.04
+STU1066,Operating Systems,43,52,82.69
+STU1066,Design & Analysis of Algorithms,43,50,86.0
+STU1066,Computer Networks,42,52,80.77
+STU1067,Cloud Infrastructure,52,54,96.3
+STU1067,Cyber Security,41,50,82.0
+STU1067,Big Data Analytics,47,52,90.38
+STU1067,Mobile Computing,52,54,96.3
+STU1068,Microprocessors & Microcontrollers,37,48,77.08
+STU1068,Digital Signal Processing,39,52,75.0
+STU1068,Analog Communication,35,50,70.0
+STU1068,Electromagnetic Fields,38,52,73.08
+STU1069,Machine Learning,51,52,98.08
+STU1069,Data Mining & Warehousing,49,52,94.23
+STU1069,Operating Systems,42,48,87.5
+STU1069,Applied Statistics,48,50,96.0
+STU1070,Thermodynamics,35,50,70.0
+STU1070,Fluid Mechanics,31,50,62.0
+STU1070,Engineering Mechanics,42,54,77.78
+STU1070,Materials Science,35,50,70.0
+STU1071,Data Structures,36,50,72.0
+STU1071,Digital Logic & Design,33,48,68.75
+STU1071,Object Oriented Programming,41,54,75.93
+STU1071,Discrete Mathematics,38,54,70.37
+STU1072,Cloud Infrastructure,50,52,96.15
+STU1072,Cyber Security,51,54,94.44
+STU1072,Big Data Analytics,50,54,92.59
+STU1072,Mobile Computing,45,48,93.75
+STU1073,VLSI Design,46,50,92.0
+STU1073,Wireless Communication,52,54,96.3
+STU1073,Embedded Systems,52,54,96.3
+STU1073,Optical Networks,45,48,93.75
+STU1074,Machine Learning,43,54,79.63
+STU1074,Data Mining & Warehousing,40,54,74.07
+STU1074,Operating Systems,34,48,70.83
+STU1074,Applied Statistics,38,52,73.08
+STU1075,Heat Transfer,35,52,67.31
+STU1075,Kinematics of Machinery,40,54,74.07
+STU1075,Design of Machine Elements,37,54,68.52
+STU1075,Manufacturing Technology,36,50,72.0
+STU1076,Database Management Systems,37,54,68.52
+STU1076,Operating Systems,31,50,62.0
+STU1076,Design & Analysis of Algorithms,34,52,65.38
+STU1076,Computer Networks,35,54,64.81
+STU1077,Database Systems,42,54,77.78
+STU1077,Web Technology,37,48,77.08
+STU1077,Operating Systems,41,54,75.93
+STU1077,Software Engineering,38,52,73.08
+STU1078,VLSI Design,51,54,94.44
+STU1078,Wireless Communication,49,50,98.0
+STU1078,Embedded Systems,52,54,96.3
+STU1078,Optical Networks,46,50,92.0
+STU1079,Deep Learning,42,48,87.5
+STU1079,Natural Language Processing,48,54,88.89
+STU1079,Big Data Engineering,42,48,87.5
+STU1079,Data Visualization & BI,40,48,83.33
+STU1080,CAD/CAM & Automation,53,54,98.15
+STU1080,Robotics & Automation,46,50,92.0
+STU1080,Finite Element Analysis,52,54,96.3
+STU1080,Power Plant Engineering,45,50,90.0
+STU1081,Database Management Systems,28,48,58.33
+STU1081,Operating Systems,31,52,59.62
+STU1081,Design & Analysis of Algorithms,29,54,53.7
+STU1081,Computer Networks,29,52,55.77
+STU1082,Data Structures,38,50,76.0
+STU1082,Computer Organization,43,54,79.63
+STU1082,Java Programming,41,52,78.85
+STU1082,Discrete Mathematics,42,52,80.77
+STU1083,Electronic Devices & Circuits,41,54,75.93
+STU1083,Digital Electronics,40,52,76.92
+STU1083,Signals and Systems,42,54,77.78
+STU1083,Network Theory,41,52,78.85
+STU1084,Deep Learning,43,48,89.58
+STU1084,Natural Language Processing,49,54,90.74
+STU1084,Big Data Engineering,41,48,85.42
+STU1084,Data Visualization & BI,41,48,85.42
+STU1085,Heat Transfer,41,52,78.85
+STU1085,Kinematics of Machinery,41,50,82.0
+STU1085,Design of Machine Elements,39,48,81.25
+STU1085,Manufacturing Technology,42,48,87.5
+STU1086,Data Structures,38,48,79.17
+STU1086,Digital Logic & Design,36,50,72.0
+STU1086,Object Oriented Programming,36,50,72.0
+STU1086,Discrete Mathematics,37,48,77.08
+STU1087,Data Structures,34,50,68.0
+STU1087,Computer Organization,33,50,66.0
+STU1087,Java Programming,38,50,76.0
+STU1087,Discrete Mathematics,37,54,68.52
+STU1088,Microprocessors & Microcontrollers,38,48,79.17
+STU1088,Digital Signal Processing,41,50,82.0
+STU1088,Analog Communication,45,54,83.33
+STU1088,Electromagnetic Fields,39,52,75.0
+STU1089,Python for Data Science,25,52,48.08
+STU1089,Data Structures,26,50,52.0
+STU1089,Linear Algebra & Statistics,24,48,50.0
+STU1089,Database Systems,24,50,48.0
+STU1090,Thermodynamics,41,52,78.85
+STU1090,Fluid Mechanics,39,48,81.25
+STU1090,Engineering Mechanics,36,48,75.0
+STU1090,Materials Science,42,52,80.77
+STU1091,Database Management Systems,53,54,98.15
+STU1091,Operating Systems,53,54,98.15
+STU1091,Design & Analysis of Algorithms,46,50,92.0
+STU1091,Computer Networks,44,48,91.67
+STU1092,Database Systems,35,50,70.0
+STU1092,Web Technology,34,48,70.83
+STU1092,Operating Systems,36,52,69.23
+STU1092,Software Engineering,34,48,70.83
+STU1093,Microprocessors & Microcontrollers,36,48,75.0
+STU1093,Digital Signal Processing,40,52,76.92
+STU1093,Analog Communication,40,54,74.07
+STU1093,Electromagnetic Fields,41,52,78.85
+STU1094,Python for Data Science,40,48,83.33
+STU1094,Data Structures,46,52,88.46
+STU1094,Linear Algebra & Statistics,43,48,89.58
+STU1094,Database Systems,50,54,92.59
+STU1095,Heat Transfer,37,54,68.52
+STU1095,Kinematics of Machinery,31,48,64.58
+STU1095,Design of Machine Elements,39,54,72.22
+STU1095,Manufacturing Technology,34,52,65.38
+STU1096,Data Structures,44,54,81.48
+STU1096,Digital Logic & Design,43,50,86.0
+STU1096,Object Oriented Programming,48,54,88.89
+STU1096,Discrete Mathematics,42,50,84.0
+STU1097,Database Systems,42,52,80.77
+STU1097,Web Technology,42,54,77.78
+STU1097,Operating Systems,42,54,77.78
+STU1097,Software Engineering,41,54,75.93
+STU1098,Microprocessors & Microcontrollers,42,52,80.77
+STU1098,Digital Signal Processing,43,52,82.69
+STU1098,Analog Communication,43,50,86.0
+STU1098,Electromagnetic Fields,40,48,83.33
+STU1099,Machine Learning,46,52,88.46
+STU1099,Data Mining & Warehousing,52,54,96.3
+STU1099,Operating Systems,49,50,98.0
+STU1099,Applied Statistics,52,54,96.3
+STU1100,CAD/CAM & Automation,52,54,96.3
+STU1100,Robotics & Automation,50,52,96.15
+STU1100,Finite Element Analysis,45,48,93.75
+STU1100,Power Plant Engineering,51,54,94.44
+STU1101,Database Management Systems,48,52,92.31
+STU1101,Operating Systems,47,50,94.0
+STU1101,Design & Analysis of Algorithms,51,54,94.44
+STU1101,Computer Networks,46,50,92.0
+STU1102,Database Systems,44,52,84.62
+STU1102,Web Technology,44,52,84.62
+STU1102,Operating Systems,42,52,80.77
+STU1102,Software Engineering,42,52,80.77
+STU1103,Electronic Devices & Circuits,41,52,78.85
+STU1103,Digital Electronics,39,48,81.25
+STU1103,Signals and Systems,41,50,82.0
+STU1103,Network Theory,37,48,77.08
+STU1104,Machine Learning,44,50,88.0
+STU1104,Data Mining & Warehousing,43,54,79.63
+STU1104,Operating Systems,43,54,79.63
+STU1104,Applied Statistics,42,50,84.0
+STU1105,Thermodynamics,26,54,48.15
+STU1105,Fluid Mechanics,26,54,48.15
+STU1105,Engineering Mechanics,30,54,55.56
+STU1105,Materials Science,28,48,58.33
+STU1106,Data Structures,38,48,79.17
+STU1106,Digital Logic & Design,41,52,78.85
+STU1106,Object Oriented Programming,37,50,74.0
+STU1106,Discrete Mathematics,45,54,83.33
+STU1107,Cloud Infrastructure,42,50,84.0
+STU1107,Cyber Security,43,52,82.69
+STU1107,Big Data Analytics,48,52,92.31
+STU1107,Mobile Computing,49,54,90.74
+STU1108,Microprocessors & Microcontrollers,35,52,67.31
+STU1108,Digital Signal Processing,37,54,68.52
+STU1108,Analog Communication,37,52,71.15
+STU1108,Electromagnetic Fields,37,52,71.15
+STU1109,Deep Learning,42,54,77.78
+STU1109,Natural Language Processing,44,52,84.62
+STU1109,Big Data Engineering,45,52,86.54
+STU1109,Data Visualization & BI,43,52,82.69
+STU1110,Heat Transfer,45,50,90.0
+STU1110,Kinematics of Machinery,42,48,87.5
+STU1110,Design of Machine Elements,46,50,92.0
+STU1110,Manufacturing Technology,46,52,88.46
+STU1111,Artificial Intelligence,37,48,77.08
+STU1111,Cloud Computing,38,50,76.0
+STU1111,Information Security,37,50,74.0
+STU1111,Compiler Design,38,50,76.0
+STU1112,Database Systems,47,54,87.04
+STU1112,Web Technology,45,52,86.54
+STU1112,Operating Systems,43,52,82.69
+STU1112,Software Engineering,43,48,89.58
+STU1113,Microprocessors & Microcontrollers,28,50,56.0
+STU1113,Digital Signal Processing,29,52,55.77
+STU1113,Analog Communication,26,50,52.0
+STU1113,Electromagnetic Fields,31,52,59.62
+STU1114,Machine Learning,40,50,80.0
+STU1114,Data Mining & Warehousing,39,52,75.0
+STU1114,Operating Systems,39,48,81.25
+STU1114,Applied Statistics,39,50,78.0
+STU1115,Thermodynamics,43,52,82.69
+STU1115,Fluid Mechanics,35,48,72.92
+STU1115,Engineering Mechanics,39,48,81.25
+STU1115,Materials Science,38,52,73.08
+STU1116,Database Management Systems,32,50,64.0
+STU1116,Operating Systems,35,54,64.81
+STU1116,Design & Analysis of Algorithms,28,48,58.33
+STU1116,Computer Networks,32,48,66.67
+STU1117,Data Structures,36,52,69.23
+STU1117,Computer Organization,37,54,68.52
+STU1117,Java Programming,33,54,61.11
+STU1117,Discrete Mathematics,40,54,74.07
+STU1118,Electronic Devices & Circuits,47,52,90.38
+STU1118,Digital Electronics,47,50,94.0
+STU1118,Signals and Systems,46,48,95.83
+STU1118,Network Theory,47,52,90.38
+STU1119,Machine Learning,30,54,55.56
+STU1119,Data Mining & Warehousing,24,48,50.0
+STU1119,Operating Systems,28,48,58.33
+STU1119,Applied Statistics,27,54,50.0
+STU1120,Thermodynamics,37,54,68.52
+STU1120,Fluid Mechanics,37,48,77.08
+STU1120,Engineering Mechanics,35,48,72.92
+STU1120,Materials Science,38,50,76.0

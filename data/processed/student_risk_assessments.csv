@@ -1,0 +1,121 @@
+student_id,student_name,department,academic_risk_level,academic_risk_triggers_count,placement_risk_level,placement_risk_triggers_count,overall_risk_summary
+STU1001,Karthik Sharma,Computer Science and Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1002,Surya Kumar,Information Technology,Moderate,2,Low,0,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1003,Rishi Nair,Electronics and Communication Engineering,Moderate,4,Moderate,5,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1004,Janani Sengupta,Data Science,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1005,Harini Chopra,Mechanical Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1006,Manish Verma,Computer Science and Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1007,Ananya Patel,Information Technology,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1008,Rhea Kumar,Electronics and Communication Engineering,High,5,High,4,Dual Critical Risk: Immediate intervention required in both academic standing and recruitment readiness.
+STU1009,Ananya Bhat,Data Science,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1010,Priya Das,Mechanical Engineering,High,4,Moderate,5,Academic Priority: Academic remediation (clearing backlogs and boosting attendance) must take precedence.
+STU1011,Keerthi Kumar,Computer Science and Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1012,Raghav Chopra,Information Technology,Moderate,3,Low,0,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1013,Surya Narayanan,Electronics and Communication Engineering,Moderate,3,Moderate,5,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1014,Aarav Swaminathan,Data Science,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1015,Naveen Das,Mechanical Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1016,Manish Pillai,Computer Science and Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1017,Surya Nair,Information Technology,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1018,Rhea Swaminathan,Electronics and Communication Engineering,Low,0,Moderate,1,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1019,Amrita Reddy,Data Science,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1020,Harini Deshmukh,Mechanical Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1021,Ishaan Gupta,Computer Science and Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1022,Anirudh Mehta,Information Technology,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1023,Siddharth Narayanan,Electronics and Communication Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1024,Bhavya Rajan,Data Science,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1025,Sangeetha Bhat,Mechanical Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1026,Kavya Chatterjee,Computer Science and Engineering,Moderate,3,Moderate,5,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1027,Dinesh Patel,Information Technology,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1028,Tarun Shetty,Electronics and Communication Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1029,Ashwin Chopra,Data Science,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1030,Pranav Das,Mechanical Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1031,Dev Verma,Computer Science and Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1032,Rohan Swaminathan,Information Technology,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1033,Tarun Patel,Electronics and Communication Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1034,Rohan Gowda,Data Science,High,5,High,5,Dual Critical Risk: Immediate intervention required in both academic standing and recruitment readiness.
+STU1035,Ishaan Deshmukh,Mechanical Engineering,Moderate,1,Low,0,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1036,Surya Bose,Computer Science and Engineering,Moderate,3,High,5,Career Priority: Strong/moderate academics but requires urgent placement preparation (coding & aptitude drills).
+STU1037,Ashwin Iyer,Information Technology,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1038,Chaithra Gupta,Electronics and Communication Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1039,Rahul Sengupta,Data Science,Moderate,4,Moderate,5,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1040,Sneha Das,Mechanical Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1041,Divya Mehta,Computer Science and Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1042,Neha Bhat,Information Technology,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1043,Sanjay Iyer,Electronics and Communication Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1044,Tejas Deshmukh,Data Science,High,4,High,5,Dual Critical Risk: Immediate intervention required in both academic standing and recruitment readiness.
+STU1045,Sneha Chatterjee,Mechanical Engineering,Low,0,Moderate,1,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1046,Rishi Sengupta,Computer Science and Engineering,Moderate,3,Moderate,5,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1047,Yash Shetty,Information Technology,Low,0,Moderate,1,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1048,Deepa Kumar,Electronics and Communication Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1049,Arjun Narayanan,Data Science,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1050,Vikram Deshmukh,Mechanical Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1051,Sneha Patel,Computer Science and Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1052,Rhea Chatterjee,Information Technology,High,4,Moderate,4,Academic Priority: Academic remediation (clearing backlogs and boosting attendance) must take precedence.
+STU1053,Vikram Rao,Electronics and Communication Engineering,High,4,High,5,Dual Critical Risk: Immediate intervention required in both academic standing and recruitment readiness.
+STU1054,Zoya Deshmukh,Data Science,High,5,High,5,Dual Critical Risk: Immediate intervention required in both academic standing and recruitment readiness.
+STU1055,Sangeetha Nair,Mechanical Engineering,Moderate,1,Moderate,1,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1056,Siddharth Nair,Computer Science and Engineering,High,4,High,5,Dual Critical Risk: Immediate intervention required in both academic standing and recruitment readiness.
+STU1057,Sanjay Rajan,Information Technology,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1058,Siddharth Rajan,Electronics and Communication Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1059,Manish Balakrishnan,Data Science,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1060,Indira Gupta,Mechanical Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1061,Rishi Nair,Computer Science and Engineering,Moderate,1,Low,0,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1062,Zoya Patel,Information Technology,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1063,Chetan Gowda,Electronics and Communication Engineering,Moderate,4,Moderate,2,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1064,Karthik Nair,Data Science,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1065,Naveen Narayanan,Mechanical Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1066,Manish Mehta,Computer Science and Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1067,Dev Deshmukh,Information Technology,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1068,Dinesh Mehta,Electronics and Communication Engineering,Moderate,3,Moderate,5,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1069,Tejas Kulkarni,Data Science,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1070,Shreya Bhat,Mechanical Engineering,Moderate,1,Low,0,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1071,Aditi Sengupta,Computer Science and Engineering,Moderate,2,Moderate,5,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1072,Karthik Sengupta,Information Technology,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1073,Sneha Swaminathan,Electronics and Communication Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1074,Amrita Reddy,Data Science,High,4,High,5,Dual Critical Risk: Immediate intervention required in both academic standing and recruitment readiness.
+STU1075,Tarun Joshi,Mechanical Engineering,Moderate,4,Moderate,5,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1076,Naveen Bose,Computer Science and Engineering,Moderate,4,Moderate,5,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1077,Aarav Rajan,Information Technology,High,3,Moderate,5,Academic Priority: Academic remediation (clearing backlogs and boosting attendance) must take precedence.
+STU1078,Siddharth Kulkarni,Electronics and Communication Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1079,Nikhil Kulkarni,Data Science,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1080,Janani Gowda,Mechanical Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1081,Varun Shetty,Computer Science and Engineering,High,4,High,5,Dual Critical Risk: Immediate intervention required in both academic standing and recruitment readiness.
+STU1082,Priya Nair,Information Technology,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1083,Chaithra Swaminathan,Electronics and Communication Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1084,Naveen Bhat,Data Science,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1085,Aarav Mehta,Mechanical Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1086,Yash Ghosh,Computer Science and Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1087,Akhil Reddy,Information Technology,Moderate,3,High,5,Career Priority: Strong/moderate academics but requires urgent placement preparation (coding & aptitude drills).
+STU1088,Ashwin Balakrishnan,Electronics and Communication Engineering,Low,0,Moderate,1,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1089,Vidya Kumar,Data Science,High,4,High,4,Dual Critical Risk: Immediate intervention required in both academic standing and recruitment readiness.
+STU1090,Deepa Kumar,Mechanical Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1091,Gautam Patel,Computer Science and Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1092,Vignesh Shetty,Information Technology,High,3,Moderate,5,Academic Priority: Academic remediation (clearing backlogs and boosting attendance) must take precedence.
+STU1093,Dev Swaminathan,Electronics and Communication Engineering,Moderate,3,Moderate,5,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1094,Kiran Nair,Data Science,Low,0,Moderate,1,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1095,Uma Bhat,Mechanical Engineering,Moderate,3,High,5,Career Priority: Strong/moderate academics but requires urgent placement preparation (coding & aptitude drills).
+STU1096,Neha Singh,Computer Science and Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1097,Manish Rao,Information Technology,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1098,Priya Das,Electronics and Communication Engineering,Low,0,Moderate,1,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1099,Vidya Deshmukh,Data Science,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1100,Chaithra Bose,Mechanical Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1101,Raghav Reddy,Computer Science and Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1102,Sanjay Kumar,Information Technology,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1103,Dev Pillai,Electronics and Communication Engineering,Low,0,Moderate,1,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1104,Akhil Chopra,Data Science,Low,0,Moderate,1,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
+STU1105,Rohan Chopra,Mechanical Engineering,High,5,High,5,Dual Critical Risk: Immediate intervention required in both academic standing and recruitment readiness.
+STU1106,Rishi Sharma,Computer Science and Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1107,Divya Das,Information Technology,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1108,Deepa Kumar,Electronics and Communication Engineering,High,4,Moderate,5,Academic Priority: Academic remediation (clearing backlogs and boosting attendance) must take precedence.
+STU1109,Dev Balakrishnan,Data Science,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1110,Arjun Gowda,Mechanical Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1111,Aditya Patel,Computer Science and Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1112,Sahil Singh,Information Technology,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1113,Vignesh Rao,Electronics and Communication Engineering,High,4,High,5,Dual Critical Risk: Immediate intervention required in both academic standing and recruitment readiness.
+STU1114,Kiran Rajan,Data Science,Moderate,2,High,5,Career Priority: Strong/moderate academics but requires urgent placement preparation (coding & aptitude drills).
+STU1115,Uma Kumar,Mechanical Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1116,Uma Narayanan,Computer Science and Engineering,High,5,High,5,Dual Critical Risk: Immediate intervention required in both academic standing and recruitment readiness.
+STU1117,Jagan Rao,Information Technology,Moderate,3,High,5,Career Priority: Strong/moderate academics but requires urgent placement preparation (coding & aptitude drills).
+STU1118,Ishaan Reddy,Electronics and Communication Engineering,Low,0,Low,0,On Track: Student maintains exemplary academic standing and career preparation standards.
+STU1119,Nandita Gupta,Data Science,High,4,High,5,Dual Critical Risk: Immediate intervention required in both academic standing and recruitment readiness.
+STU1120,Manish Joshi,Mechanical Engineering,Moderate,1,Low,0,Monitoring Required: Moderate risk identified in one or more areas; proactive coaching advised.
